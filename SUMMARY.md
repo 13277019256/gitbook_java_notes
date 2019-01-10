@@ -1,0 +1,1 @@
+[index](http://baidu.com)
